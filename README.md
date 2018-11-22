@@ -1,27 +1,19 @@
 # Code samples for "Neural Networks and Deep Learning"
 
-This repository contains code samples for my book on ["Neural Networks
-and Deep Learning"](http://neuralnetworksanddeeplearning.com).
+يحتوي هذا المستودع على نماذج توضيحية لكتابي حول "الشبكات العصبية والتعمق في التعلم".
 
-The code is written for Python 2.6 or 2.7. Michal Daniel Dobrzanski
-has a repository for Python 3
-[here](https://github.com/MichalDanielDobrzanski/DeepLearningPython35). I
-will not be updating the current repository for Python 3
-compatibility.
+تمت كتابة التعليمة البرمجية لـ Python 2.6 أو 2.7. ميشال دانيال دوبرسانسكي لديه مستودع لبيثون 3 هنا. لن أقوم بتحديث المستودع الحالي للتوافق مع Python 3.
 
-The program `src/network3.py` uses version 0.6 or 0.7 of the Theano
-library.  It needs modification for compatibility with later versions
-of the library.  I will not be making such modifications.
+يستخدم البرنامج src / network3.py الإصدار 0.6 أو 0.7 من مكتبة Theano. يحتاج إلى تعديل للتوافق مع الإصدارات الأحدث من المكتبة. لن أقوم بإجراء مثل هذه التعديلات.
 
-As the code is written to accompany the book, I don't intend to add
-new features. However, bug reports are welcome, and you should feel
-free to fork and modify the code.
+نظرًا لأن الشفرة مكتوبة لمرافقة الكتاب ، لا أنوي إضافة ميزات جديدة. ومع ذلك ، فإن تقارير الأخطاء مرحب بها ، ويجب ألا تتردد في استخدام الشفرة وتعديل الشفرة.
+
 
 ## License
 
 MIT License
 
-Copyright (c) 2012-2018 Michael Nielsen
+Copyright (c) 2018 Hussein shtia
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
